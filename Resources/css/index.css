@@ -2,12 +2,12 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.strong {
+strong {
     color: blue;
 }
 
-h1.index-head {
-    background-image: url("/Dasmoto-a&c/Resources/images/pattern.webp");
+#index-head {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
     color: khaki;
     font-weight: bold;
     font-size: 100px;
@@ -20,14 +20,14 @@ h2 {
     color: white;
 }
 
-h2.brushes {
+#brushes {
     background-color: mediumspringgreen;
 }
 
-h2.frames {
+#frames {
     background-color: lightcoral;
 }
 
-h2.paint {
+#paint {
     background-color: skyblue;
 }
