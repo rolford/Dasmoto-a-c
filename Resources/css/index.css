@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.strong {
+    color: blue;
+}
+
+h1.index-head {
+    background-image: url("/Dasmoto-a&c/Resources/images/pattern.webp");
+    color: khaki;
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2.brushes {
+    background-color: mediumspringgreen;
+}
+
+h2.frames {
+    background-color: lightcoral;
+}
+
+h2.paint {
+    background-color: skyblue;
+}
